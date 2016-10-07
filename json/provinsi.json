@@ -1,0 +1,240 @@
+[
+  {
+    "kodePROVINSI": 11,
+    "namaPROVINSI": "ACEH",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 12,
+    "namaPROVINSI": "SUMATERA UTARA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 13,
+    "namaPROVINSI": "SUMATERA BARAT",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 14,
+    "namaPROVINSI": "RIAU",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 15,
+    "namaPROVINSI": "JAMBI",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 16,
+    "namaPROVINSI": "SUMATERA SELATAN",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 17,
+    "namaPROVINSI": "BENGKULU",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 18,
+    "namaPROVINSI": "LAMPUNG",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 19,
+    "namaPROVINSI": "KEPULAUAN BANGKA BELITUNG",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 21,
+    "namaPROVINSI": "KEPULAUAN RIAU",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 31,
+    "namaPROVINSI": "DKI JAKARTA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 32,
+    "namaPROVINSI": "JAWA BARAT",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 33,
+    "namaPROVINSI": "JAWA TENGAH",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 34,
+    "namaPROVINSI": "DI YOGYAKARTA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 35,
+    "namaPROVINSI": "JAWA TIMUR",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 36,
+    "namaPROVINSI": "BANTEN",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 51,
+    "namaPROVINSI": "BALI",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 52,
+    "namaPROVINSI": "NUSA TENGGARA BARAT",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 53,
+    "namaPROVINSI": "NUSA TENGGARA TIMUR",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 61,
+    "namaPROVINSI": "KALIMANTAN BARAT",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 62,
+    "namaPROVINSI": "KALIMANTAN TENGAH",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 63,
+    "namaPROVINSI": "KALIMANTAN SELATAN",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 64,
+    "namaPROVINSI": "KALIMANTAN TIMUR",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 65,
+    "namaPROVINSI": "KALIMANTAN UTARA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 71,
+    "namaPROVINSI": "SULAWESI UTARA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 72,
+    "namaPROVINSI": "SULAWESI TENGAH",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 73,
+    "namaPROVINSI": "SULAWESI SELATAN",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 74,
+    "namaPROVINSI": "SULAWESI TENGGARA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 75,
+    "namaPROVINSI": "GORONTALO",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 76,
+    "namaPROVINSI": "SULAWESI BARAT",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 81,
+    "namaPROVINSI": "MALUKU",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 82,
+    "namaPROVINSI": "MALUKU UTARA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 91,
+    "namaPROVINSI": "PAPUA BARAT",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodePROVINSI": 94,
+    "namaPROVINSI": "PAPUA",
+    "kodeNEGARA": "ID",
+    "namaNEGARA": "INDONESIA",
+    "aktifYN": "TRUE"
+  }
+]

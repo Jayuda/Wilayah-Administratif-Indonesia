@@ -1,0 +1,3086 @@
+[
+  {
+    "kodeKABUPATEN": 1101,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN SIMEULUE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1102,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH SINGKIL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1103,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1104,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH TENGGARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1105,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1106,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1107,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1108,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH BESAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1109,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN PIDIE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1110,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN BIREUEN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1111,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1112,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH BARAT DAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1113,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN GAYO LUES",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1114,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH TAMIANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1115,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN NAGAN RAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1116,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN ACEH JAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1117,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN BENER MERIAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1118,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KABUPATEN PIDIE JAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1171,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KOTA BANDA ACEH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1172,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KOTA SABANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1173,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KOTA LANGSA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1174,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KOTA LHOKSEUMAWE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1175,
+    "kodePROVINSI": 11,
+    "namaKABUPATEN": "KOTA SUBULUSSALAM",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1201,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN NIAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1202,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN MANDAILING NATAL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1203,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN TAPANULI SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1204,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN TAPANULI TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1205,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN TAPANULI UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1206,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN TOBA SAMOSIR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1207,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN LABUHAN BATU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1208,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN ASAHAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1209,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN SIMALUNGUN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1210,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN DAIRI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1211,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN KARO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1212,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN DELI SERDANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1213,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN LANGKAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1214,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN NIAS SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1215,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN HUMBANG HASUNDUTAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1216,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN PAKPAK BHARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1217,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN SAMOSIR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1218,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN SERDANG BEDAGAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1219,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN BATU BARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1220,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN PADANG LAWAS UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1221,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN PADANG LAWAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1222,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN LABUHAN BATU SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1223,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN LABUHAN BATU UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1224,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN NIAS UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1225,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KABUPATEN NIAS BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1271,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA SIBOLGA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1272,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA TANJUNG BALAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1273,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA PEMATANG SIANTAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1274,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA TEBING TINGGI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1275,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA MEDAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1276,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA BINJAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1277,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA PADANGSIDIMPUAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1278,
+    "kodePROVINSI": 12,
+    "namaKABUPATEN": "KOTA GUNUNGSITOLI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1301,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN MENTAWAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1302,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN PESISIR SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1303,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN SOLOK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1304,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN SIJUNJUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1305,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN TANAH DATAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1306,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN PADANG PARIAMAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1307,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN AGAM",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1308,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN LIMA PULUH KOTA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1309,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN PASAMAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1310,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN SOLOK SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1311,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN DHARMASRAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1312,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KABUPATEN PASAMAN BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1371,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KOTA PADANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1372,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KOTA SOLOK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1373,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KOTA SAWAH LUNTO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1374,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KOTA PADANG PANJANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1375,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KOTA BUKITTINGGI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1376,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KOTA PAYAKUMBUH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1377,
+    "kodePROVINSI": 13,
+    "namaKABUPATEN": "KOTA PARIAMAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1401,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN KUANTAN SINGINGI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1402,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN INDRAGIRI HULU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1403,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN INDRAGIRI HILIR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1404,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN PELALAWAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1405,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN S I A K",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1406,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN KAMPAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1407,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN ROKAN HULU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1408,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN BENGKALIS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1409,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN ROKAN HILIR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1410,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN MERANTI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1471,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KOTA PEKANBARU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1473,
+    "kodePROVINSI": 14,
+    "namaKABUPATEN": "KOTA D U M A I",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1501,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN KERINCI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1502,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN MERANGIN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1503,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN SAROLANGUN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1504,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN BATANG HARI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1505,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN MUARO JAMBI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1506,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN TANJUNG JABUNG TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1507,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN TANJUNG JABUNG BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1508,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN TEBO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1509,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KABUPATEN BUNGO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1571,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KOTA JAMBI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1572,
+    "kodePROVINSI": 15,
+    "namaKABUPATEN": "KOTA SUNGAI PENUH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1601,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN OGAN KOMERING ULU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1602,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN OGAN KOMERING ILIR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1603,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN MUARA ENIM",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1604,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN LAHAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1605,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN MUSI RAWAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1606,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN MUSI BANYUASIN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1607,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN BANYU ASIN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1608,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN OGAN KOMERING ULU SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1609,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN OGAN KOMERING ULU TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1610,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN OGAN ILIR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1611,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN EMPAT LAWANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1612,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN PENUKAL ABAB LEMATANG ILIR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1613,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KABUPATEN MUSI RAWAS UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1671,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KOTA PALEMBANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1672,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KOTA PRABUMULIH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1673,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KOTA PAGAR ALAM",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1674,
+    "kodePROVINSI": 16,
+    "namaKABUPATEN": "KOTA LUBUKLINGGAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1701,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN BENGKULU SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1702,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN REJANG LEBONG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1703,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN BENGKULU UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1704,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN KAUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1705,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN SELUMA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1706,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN MUKOMUKO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1707,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN LEBONG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1708,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN KEPAHIANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1709,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KABUPATEN BENGKULU TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1771,
+    "kodePROVINSI": 17,
+    "namaKABUPATEN": "KOTA BENGKULU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1801,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN LAMPUNG BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1802,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN TANGGAMUS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1803,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN LAMPUNG SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1804,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN LAMPUNG TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1805,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN LAMPUNG TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1806,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN LAMPUNG UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1807,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN WAY KANAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1808,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN TULANGBAWANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1809,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN PESAWARAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1810,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN PRINGSEWU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1811,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN MESUJI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1812,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN TULANG BAWANG BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1813,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KABUPATEN PESISIR BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1871,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KOTA BANDAR LAMPUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1872,
+    "kodePROVINSI": 18,
+    "namaKABUPATEN": "KOTA METRO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1901,
+    "kodePROVINSI": 19,
+    "namaKABUPATEN": "KABUPATEN BANGKA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1902,
+    "kodePROVINSI": 19,
+    "namaKABUPATEN": "KABUPATEN BELITUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1903,
+    "kodePROVINSI": 19,
+    "namaKABUPATEN": "KABUPATEN BANGKA BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1904,
+    "kodePROVINSI": 19,
+    "namaKABUPATEN": "KABUPATEN BANGKA TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1905,
+    "kodePROVINSI": 19,
+    "namaKABUPATEN": "KABUPATEN BANGKA SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1906,
+    "kodePROVINSI": 19,
+    "namaKABUPATEN": "KABUPATEN BELITUNG TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 1971,
+    "kodePROVINSI": 19,
+    "namaKABUPATEN": "KOTA PANGKAL PINANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 2101,
+    "kodePROVINSI": 21,
+    "namaKABUPATEN": "KABUPATEN KARIMUN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 2102,
+    "kodePROVINSI": 21,
+    "namaKABUPATEN": "KABUPATEN BINTAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 2103,
+    "kodePROVINSI": 21,
+    "namaKABUPATEN": "KABUPATEN NATUNA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 2104,
+    "kodePROVINSI": 21,
+    "namaKABUPATEN": "KABUPATEN LINGGA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 2105,
+    "kodePROVINSI": 21,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN ANAMBAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 2171,
+    "kodePROVINSI": 21,
+    "namaKABUPATEN": "KOTA B A T A M",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 2172,
+    "kodePROVINSI": 21,
+    "namaKABUPATEN": "KOTA TANJUNG PINANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3101,
+    "kodePROVINSI": 31,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN SERIBU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3171,
+    "kodePROVINSI": 31,
+    "namaKABUPATEN": "KOTA JAKARTA SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3172,
+    "kodePROVINSI": 31,
+    "namaKABUPATEN": "KOTA JAKARTA TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3173,
+    "kodePROVINSI": 31,
+    "namaKABUPATEN": "KOTA JAKARTA PUSAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3174,
+    "kodePROVINSI": 31,
+    "namaKABUPATEN": "KOTA JAKARTA BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3175,
+    "kodePROVINSI": 31,
+    "namaKABUPATEN": "KOTA JAKARTA UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3201,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN BOGOR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3202,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN SUKABUMI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3203,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN CIANJUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3204,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN BANDUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3205,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN GARUT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3206,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN TASIKMALAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3207,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN CIAMIS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3208,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN KUNINGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3209,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN CIREBON",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3210,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN MAJALENGKA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3211,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN SUMEDANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3212,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN INDRAMAYU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3213,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN SUBANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3214,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN PURWAKARTA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3215,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN KARAWANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3216,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN BEKASI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3217,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN BANDUNG BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3218,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KABUPATEN PANGANDARAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3271,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA BOGOR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3272,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA SUKABUMI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3273,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA BANDUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3274,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA CIREBON",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3275,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA BEKASI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3276,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA DEPOK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3277,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA CIMAHI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3278,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA TASIKMALAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3279,
+    "kodePROVINSI": 32,
+    "namaKABUPATEN": "KOTA BANJAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3301,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN CILACAP",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3302,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN BANYUMAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3303,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN PURBALINGGA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3304,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN BANJARNEGARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3305,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN KEBUMEN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3306,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN PURWOREJO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3307,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN WONOSOBO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3308,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN MAGELANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3309,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN BOYOLALI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3310,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN KLATEN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3311,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN SUKOHARJO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3312,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN WONOGIRI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3313,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN KARANGANYAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3314,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN SRAGEN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3315,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN GROBOGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3316,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN BLORA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3317,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN REMBANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3318,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN PATI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3319,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN KUDUS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3320,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN JEPARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3321,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN DEMAK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3322,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN SEMARANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3323,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN TEMANGGUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3324,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN KENDAL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3325,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN BATANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3326,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN PEKALONGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3327,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN PEMALANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3328,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN TEGAL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3329,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KABUPATEN BREBES",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3371,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KOTA MAGELANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3372,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KOTA SURAKARTA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3373,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KOTA SALATIGA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3374,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KOTA SEMARANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3375,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KOTA PEKALONGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3376,
+    "kodePROVINSI": 33,
+    "namaKABUPATEN": "KOTA TEGAL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3401,
+    "kodePROVINSI": 34,
+    "namaKABUPATEN": "KABUPATEN KULON PROGO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3402,
+    "kodePROVINSI": 34,
+    "namaKABUPATEN": "KABUPATEN BANTUL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3403,
+    "kodePROVINSI": 34,
+    "namaKABUPATEN": "KABUPATEN GUNUNG KIDUL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3404,
+    "kodePROVINSI": 34,
+    "namaKABUPATEN": "KABUPATEN SLEMAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3471,
+    "kodePROVINSI": 34,
+    "namaKABUPATEN": "KOTA YOGYAKARTA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3501,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN PACITAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3502,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN PONOROGO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3503,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN TRENGGALEK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3504,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN TULUNGAGUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3505,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN BLITAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3506,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN KEDIRI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3507,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN MALANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3508,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN LUMAJANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3509,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN JEMBER",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3510,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN BANYUWANGI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3511,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN BONDOWOSO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3512,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN SITUBONDO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3513,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN PROBOLINGGO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3514,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN PASURUAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3515,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN SIDOARJO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3516,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN MOJOKERTO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3517,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN JOMBANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3518,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN NGANJUK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3519,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN MADIUN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3520,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN MAGETAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3521,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN NGAWI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3522,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN BOJONEGORO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3523,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN TUBAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3524,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN LAMONGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3525,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN GRESIK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3526,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN BANGKALAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3527,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN SAMPANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3528,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN PAMEKASAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3529,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KABUPATEN SUMENEP",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3571,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA KEDIRI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3572,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA BLITAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3573,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA MALANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3574,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA PROBOLINGGO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3575,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA PASURUAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3576,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA MOJOKERTO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3577,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA MADIUN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3578,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA SURABAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3579,
+    "kodePROVINSI": 35,
+    "namaKABUPATEN": "KOTA BATU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3601,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KABUPATEN PANDEGLANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3602,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KABUPATEN LEBAK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3603,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KABUPATEN TANGERANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3604,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KABUPATEN SERANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3671,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KOTA TANGERANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3672,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KOTA CILEGON",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3673,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KOTA SERANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 3674,
+    "kodePROVINSI": 36,
+    "namaKABUPATEN": "KOTA TANGERANG SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5101,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN JEMBRANA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5102,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN TABANAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5103,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN BADUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5104,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN GIANYAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5105,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN KLUNGKUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5106,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN BANGLI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5107,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN KARANG ASEM",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5108,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KABUPATEN BULELENG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5171,
+    "kodePROVINSI": 51,
+    "namaKABUPATEN": "KOTA DENPASAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5201,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN LOMBOK BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5202,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN LOMBOK TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5203,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN LOMBOK TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5204,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN SUMBAWA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5205,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN DOMPU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5206,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN BIMA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5207,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN SUMBAWA BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5208,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KABUPATEN LOMBOK UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5271,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KOTA MATARAM",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5272,
+    "kodePROVINSI": 52,
+    "namaKABUPATEN": "KOTA BIMA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5301,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN SUMBA BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5302,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN SUMBA TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5303,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN KUPANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5304,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN TIMOR TENGAH SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5305,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN TIMOR TENGAH UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5306,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN BELU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5307,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN ALOR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5308,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN LEMBATA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5309,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN FLORES TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5310,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN SIKKA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5311,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN ENDE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5312,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN NGADA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5313,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN MANGGARAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5314,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN ROTE NDAO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5315,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN MANGGARAI BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5316,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN SUMBA TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5317,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN SUMBA BARAT DAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5318,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN NAGEKEO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5319,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN MANGGARAI TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5320,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN SABU RAIJUA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5321,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KABUPATEN MALAKA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 5371,
+    "kodePROVINSI": 53,
+    "namaKABUPATEN": "KOTA KUPANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6101,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN SAMBAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6102,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN BENGKAYANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6103,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN LANDAK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6104,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN MEMPAWAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6105,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN SANGGAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6106,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN KETAPANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6107,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN SINTANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6108,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN KAPUAS HULU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6109,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN SEKADAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6110,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN MELAWI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6111,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN KAYONG UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6112,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KABUPATEN KUBU RAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6171,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KOTA PONTIANAK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6172,
+    "kodePROVINSI": 61,
+    "namaKABUPATEN": "KOTA SINGKAWANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6201,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN KOTAWARINGIN BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6202,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN KOTAWARINGIN TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6203,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN KAPUAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6204,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN BARITO SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6205,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN BARITO UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6206,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN SUKAMARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6207,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN LAMANDAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6208,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN SERUYAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6209,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN KATINGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6210,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN PULANG PISAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6211,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN GUNUNG MAS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6212,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN BARITO TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6213,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KABUPATEN MURUNG RAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6271,
+    "kodePROVINSI": 62,
+    "namaKABUPATEN": "KOTA PALANGKA RAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6301,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN TANAH LAUT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6302,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN KOTA BARU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6303,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN BANJAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6304,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN BARITO KUALA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6305,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN TAPIN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6306,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN HULU SUNGAI SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6307,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN HULU SUNGAI TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6308,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN HULU SUNGAI UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6309,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN TABALONG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6310,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN TANAH BUMBU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6311,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KABUPATEN BALANGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6371,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KOTA BANJARMASIN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6372,
+    "kodePROVINSI": 63,
+    "namaKABUPATEN": "KOTA BANJAR BARU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6401,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KABUPATEN PASER",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6402,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KABUPATEN KUTAI BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6403,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KABUPATEN KUTAI KARTANEGARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6404,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KABUPATEN KUTAI TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6405,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KABUPATEN BERAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6409,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KABUPATEN PENAJAM PASER UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6411,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KABUPATEN MAHAKAM HULU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6471,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KOTA BALIKPAPAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6472,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KOTA SAMARINDA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6474,
+    "kodePROVINSI": 64,
+    "namaKABUPATEN": "KOTA BONTANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6501,
+    "kodePROVINSI": 65,
+    "namaKABUPATEN": "KABUPATEN MALINAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6502,
+    "kodePROVINSI": 65,
+    "namaKABUPATEN": "KABUPATEN BULUNGAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6503,
+    "kodePROVINSI": 65,
+    "namaKABUPATEN": "KABUPATEN TANA TIDUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6504,
+    "kodePROVINSI": 65,
+    "namaKABUPATEN": "KABUPATEN NUNUKAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 6571,
+    "kodePROVINSI": 65,
+    "namaKABUPATEN": "KOTA TARAKAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7101,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN BOLAANG MONGONDOW",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7102,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN MINAHASA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7103,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN SANGIHE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7104,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN TALAUD",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7105,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN MINAHASA SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7106,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN MINAHASA UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7107,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN BOLAANG MONGONDOW UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7108,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN SIAU TAGULANDANG BIARO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7109,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN MINAHASA TENGGARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7110,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN BOLAANG MONGONDOW SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7111,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KABUPATEN BOLAANG MONGONDOW TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7171,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KOTA MANADO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7172,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KOTA BITUNG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7173,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KOTA TOMOHON",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7174,
+    "kodePROVINSI": 71,
+    "namaKABUPATEN": "KOTA KOTAMOBAGU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7201,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN BANGGAI KEPULAUAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7202,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN BANGGAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7203,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN MOROWALI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7204,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN POSO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7205,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN DONGGALA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7206,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN TOLI-TOLI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7207,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN BUOL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7208,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN PARIGI MOUTONG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7209,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN TOJO UNA-UNA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7210,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN SIGI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7211,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN BANGGAI LAUT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7212,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KABUPATEN MOROWALI UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7271,
+    "kodePROVINSI": 72,
+    "namaKABUPATEN": "KOTA PALU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7301,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN SELAYAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7302,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN BULUKUMBA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7303,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN BANTAENG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7304,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN JENEPONTO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7305,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN TAKALAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7306,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN GOWA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7307,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN SINJAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7308,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN MAROS",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7309,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN PANGKAJENE DAN KEPULAUAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7310,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN BARRU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7311,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN BONE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7312,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN SOPPENG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7313,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN WAJO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7314,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN SIDENRENG RAPPANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7315,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN PINRANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7316,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN ENREKANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7317,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN LUWU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7318,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN TANA TORAJA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7322,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN LUWU UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7325,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN LUWU TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7326,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KABUPATEN TORAJA UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7371,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KOTA MAKASSAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7372,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KOTA PAREPARE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7373,
+    "kodePROVINSI": 73,
+    "namaKABUPATEN": "KOTA PALOPO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7401,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN BUTON",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7402,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN MUNA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7403,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN KONAWE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7404,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN KOLAKA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7405,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN KONAWE SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7406,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN BOMBANA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7407,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN WAKATOBI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7408,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN KOLAKA UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7409,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN BUTON UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7410,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN KONAWE UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7411,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN KOLAKA TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7412,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN KONAWE KEPULAUAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7413,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN MUNA BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7414,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN BUTON TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7415,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KABUPATEN BUTON SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7471,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KOTA KENDARI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7472,
+    "kodePROVINSI": 74,
+    "namaKABUPATEN": "KOTA BAUBAU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7501,
+    "kodePROVINSI": 75,
+    "namaKABUPATEN": "KABUPATEN BOALEMO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7502,
+    "kodePROVINSI": 75,
+    "namaKABUPATEN": "KABUPATEN GORONTALO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7503,
+    "kodePROVINSI": 75,
+    "namaKABUPATEN": "KABUPATEN POHUWATO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7504,
+    "kodePROVINSI": 75,
+    "namaKABUPATEN": "KABUPATEN BONE BOLANGO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7505,
+    "kodePROVINSI": 75,
+    "namaKABUPATEN": "KABUPATEN GORONTALO UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7571,
+    "kodePROVINSI": 75,
+    "namaKABUPATEN": "KOTA GORONTALO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7601,
+    "kodePROVINSI": 76,
+    "namaKABUPATEN": "KABUPATEN MAJENE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7602,
+    "kodePROVINSI": 76,
+    "namaKABUPATEN": "KABUPATEN POLEWALI MANDAR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7603,
+    "kodePROVINSI": 76,
+    "namaKABUPATEN": "KABUPATEN MAMASA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7604,
+    "kodePROVINSI": 76,
+    "namaKABUPATEN": "KABUPATEN MAMUJU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7605,
+    "kodePROVINSI": 76,
+    "namaKABUPATEN": "KABUPATEN MAMUJU UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 7606,
+    "kodePROVINSI": 76,
+    "namaKABUPATEN": "KABUPATEN MAMUJU TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8101,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN MALUKU TENGGARA BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8102,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN MALUKU TENGGARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8103,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN MALUKU TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8104,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN BURU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8105,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN ARU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8106,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN SERAM BAGIAN BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8107,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN SERAM BAGIAN TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8108,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN MALUKU BARAT DAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8109,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KABUPATEN BURU SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8171,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KOTA AMBON",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8172,
+    "kodePROVINSI": 81,
+    "namaKABUPATEN": "KOTA TUAL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8201,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN HALMAHERA BARAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8202,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN HALMAHERA TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8203,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN SULA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8204,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN HALMAHERA SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8205,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN HALMAHERA UTARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8206,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN HALMAHERA TIMUR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8207,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN PULAU MOROTAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8208,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KABUPATEN PULAU TALIABU",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8271,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KOTA TERNATE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 8272,
+    "kodePROVINSI": 82,
+    "namaKABUPATEN": "KOTA TIDORE KEPULAUAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9101,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN FAKFAK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9102,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN KAIMANA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9103,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN TELUK WONDAMA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9104,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN TELUK BINTUNI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9105,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN MANOKWARI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9106,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN SORONG SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9107,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN SORONG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9108,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN RAJA AMPAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9109,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN TAMBRAUW",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9110,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN MAYBRAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9111,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN MANOKWARI SELATAN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9112,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KABUPATEN PEGUNUNGAN ARFAK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9171,
+    "kodePROVINSI": 91,
+    "namaKABUPATEN": "KOTA SORONG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9401,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN MERAUKE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9402,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN JAYAWIJAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9403,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN JAYAPURA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9404,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN NABIRE",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9408,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN KEPULAUAN YAPEN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9409,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN BIAK NUMFOR",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9410,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN PANIAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9411,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN PUNCAK JAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9412,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN MIMIKA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9413,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN BOVEN DIGOEL",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9414,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN MAPPI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9415,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN ASMAT",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9416,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN YAHUKIMO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9417,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN PEGUNUNGAN BINTANG",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9418,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN TOLIKARA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9419,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN SARMI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9420,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN KEEROM",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9426,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN WAROPEN",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9427,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN SUPIORI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9428,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN MAMBERAMO RAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9429,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN NDUGA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9430,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN LANNY JAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9431,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN MAMBERAMO TENGAH",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9432,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN YALIMO",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9433,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN PUNCAK",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9434,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN DOGIYAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9435,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN INTAN JAYA",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9436,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KABUPATEN DEIYAI",
+    "aktifYN": "TRUE"
+  },
+  {
+    "kodeKABUPATEN": 9471,
+    "kodePROVINSI": 94,
+    "namaKABUPATEN": "KOTA JAYAPURA",
+    "aktifYN": "TRUE"
+  }
+]
